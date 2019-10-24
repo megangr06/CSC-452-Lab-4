@@ -1,0 +1,4 @@
+{'StoppingInstances': [{'CurrentState': {'Code': 64, 'Name': 'stopping'}, 'InstanceId': 'i-0001d6f7e865487c2', 'PreviousState': {'Code': 16, 'Name': 'running'}}], 'ResponseMetadata': {'RequestId': '65895faf-c5e9-4c85-b013-8e381e589f26', 'HTTPStatusCode': 200, 'HTTPHeaders': {'content-type': 'text/xml;charset=UTF-8', 'content-length': '579', 'date': 'Thu, 24 Oct 2019 20:01:14 GMT', 'server': 'AmazonEC2'}, 'RetryAttempts': 0}}
+
+
+Process exited with code: 0
