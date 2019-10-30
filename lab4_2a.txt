@@ -1,0 +1,4 @@
+{'ResponseMetadata': {'RequestId': '02A43272CDE5EFF6', 'HostId': 'wi7Km/wRXo2Z8R+IPfVFvx8K7balfTVFMWutqGlMLyOnCPBciBZY39u31Q1XYM58qaZcM32Hjm0=', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amz-id-2': 'wi7Km/wRXo2Z8R+IPfVFvx8K7balfTVFMWutqGlMLyOnCPBciBZY39u31Q1XYM58qaZcM32Hjm0=', 'x-amz-request-id': '02A43272CDE5EFF6', 'date': 'Tue, 29 Oct 2019 23:47:40 GMT', 'content-type': 'application/xml', 'transfer-encoding': 'chunked', 'server': 'AmazonS3'}, 'RetryAttempts': 1}, 'Owner': {'DisplayName': 'mcg033', 'ID': '0c661184c4b85f24a04da6eb118fe61b5d82a5b388e2ce56010fef6e37a34794'}, 'Grants': [{'Grantee': {'DisplayName': 'mcg033', 'ID': '0c661184c4b85f24a04da6eb118fe61b5d82a5b388e2ce56010fef6e37a34794', 'Type': 'CanonicalUser'}, 'Permission': 'FULL_CONTROL'}]}
+
+
+Process exited with code: 0
